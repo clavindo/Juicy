@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<title>쥬시 알바</title>
+	<title>쥬시 알바 - 채용 공고</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
@@ -13,6 +13,7 @@
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	
 	<script>
+	
 		window.onload = function(){
 			
 		}

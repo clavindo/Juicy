@@ -6,7 +6,7 @@ function output_header() {
 <header>
 	
 	<div style="text-align: center;">
-		<img id="logo" src="pic/logo.jpg"/>
+		<a href="index.php"><img id="logo" src="pic/logo.jpg"/></a>
 	</div>
 	
 </header>
@@ -26,11 +26,11 @@ function output_menu() {
 			<li><a href="#">페이지 &amp; 필터 관리</a> / </li>
 			<li><a href="#">담기 &amp; 요청</a> / </li>
 			<li><a href="recruit_announcement.php">채용공고</a> / </li>
-			<li><a href="#">인재정보</a> / </li>
+			<li><a href="seeker_info.php">인재정보</a> / </li>
 			<li><a href="#" style="color: red;" >프리랜서</a> / </li>
 			<li><a href="#" style="color: red;" >스폰서</a> / </li>
-			<li><a href="#">숙소</a> / </li>
-			<li><a href="#">업소</a> / </li>
+			<li><a href="lodging.php">숙소</a> / </li>
+			<li><a href="business.php">업소</a> / </li>
 			<li><a href="#">협찬</a> / </li>
 			<li><a href="#">이용안내</a></li>
 		</ul>
